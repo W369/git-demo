@@ -9,6 +9,7 @@ public class GitTest {
         System.out.println("hot-fix 我不服");
 
         System.out.println("我修改了代码");
+        System.out.println("pull");
     }
 
 }
